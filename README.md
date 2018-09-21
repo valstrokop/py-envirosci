@@ -1,2 +1,2 @@
 # py-envirosci
-Scripts from enviro-sci days
+Sample scripts with environmental or basic statistical data analyses 
